@@ -1,0 +1,4 @@
+LIBRARY p_my_dll2
+
+EXPORTS
+my_dll2

@@ -1,0 +1,5 @@
+[my_dll1]
+Class="Function"
+Prototype="void my_dll1();"
+SourceLocation="c:\Users\Andreas\Documents\National Instruments\CVI\my_dll\my_dll1.c:2:6"
+

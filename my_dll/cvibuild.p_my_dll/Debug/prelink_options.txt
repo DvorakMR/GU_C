@@ -1,0 +1,7 @@
+-inrc c:\Users\Andreas\Documents\National Instruments\CVI\my_dll\cvibuild.p_my_dll\Debug\resources.in.rc
+-outrc c:\Users\Andreas\Documents\National Instruments\CVI\my_dll\cvibuild.p_my_dll\Debug\resources.out.rc
+-inhdef c:\Users\Andreas\Documents\National Instruments\CVI\my_dll\cvibuild.p_my_dll\Debug\h_my_dll1.h.hdefs
+-outdef c:\Users\Andreas\Documents\National Instruments\CVI\my_dll\cvibuild.p_my_dll\Debug\p_my_dll2.dll.defs
+-indefprot c:\Users\Andreas\Documents\National Instruments\CVI\my_dll\cvibuild.p_my_dll\Debug\my_dll2.obj.cvidefprots
+-dllName p_my_dll2.dll
+-addNITypeInfo 

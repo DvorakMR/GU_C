@@ -1,0 +1,10 @@
+cvi.lib
+cvirte.dll
+p_my_dll.lib
+p_my_dll.dll
+p_my_dll2.lib
+p_my_dll2.dll
+kernel32.lib
+KERNEL32.dll
+user32.lib
+USER32.dll

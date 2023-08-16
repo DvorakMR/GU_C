@@ -1,0 +1,4 @@
+[my_dll2]
+Class="Function"
+Prototype="void my_dll2() __declspec(dllexport);"
+

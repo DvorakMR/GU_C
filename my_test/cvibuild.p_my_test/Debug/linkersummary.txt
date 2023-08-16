@@ -1,0 +1,10 @@
+my_test.obj
+cvistart.lib
+cvi.lib
+p_my_dll.lib
+p_my_dll2.lib
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module

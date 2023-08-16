@@ -1,0 +1,5 @@
+[main]
+Class="Function"
+Prototype="int main();"
+SourceLocation="c:\Users\Andreas\Documents\National Instruments\CVI\my_test\my_test.c:4:5"
+
